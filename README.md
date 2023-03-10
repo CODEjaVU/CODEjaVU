@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CODEjaVU
 - 👀 I’m interested in coding, reading books, watching movies and animations.
 - 🌱 I’m currently an sophomore majoring in IT in Hanoi University.
-- 💞️ I’m studying tobe a web developer.
+- 💞️ I’m studying to be a cloud data engineer.
 - 📫 How to reach me :vu.nguyenquang2501@gmail.com
 
 <!---
